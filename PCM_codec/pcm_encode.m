@@ -1,4 +1,4 @@
-ï»¿%% PCMç¼–ç ç¨‹åº
+%% PCM±àÂë³ÌĞò
 
 function [out]=pcm_encode(x)
 
