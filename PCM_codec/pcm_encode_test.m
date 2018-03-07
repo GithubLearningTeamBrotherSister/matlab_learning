@@ -1,6 +1,11 @@
 clc
 clear all
+<<<<<<< HEAD
 close allsyms 
+=======
+close all
+
+>>>>>>> origin/master
 %% 新建一个信号并调用pcm_encode函数对其进行pcm编码
 % 信号采时间长度2秒，频率1Hz，信号幅值1000
 t=[0:0.05:2];
